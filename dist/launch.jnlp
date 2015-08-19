@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="file:/C:/Users/usuario/Documents/NetBeansProjects/Kohonen/dist/" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>Kohonen</title>
+        <vendor>usuario</vendor>
+        <homepage href=""/>
+        <description>Kohonen</description>
+        <description kind="short">Kohonen</description>
+
+
+    </information>
+
+    <resources>
+<j2se version="1.5+"/>
+<jar eager="true" href="Kohonen.jar" main="true"/>
+
+
+    </resources>
+    <application-desc main-class="kohonen.Grafos">
+
+    </application-desc>
+</jnlp>
